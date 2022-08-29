@@ -1,2 +1,2 @@
 # lab1
-yo whats up dog
+This is my first website!
